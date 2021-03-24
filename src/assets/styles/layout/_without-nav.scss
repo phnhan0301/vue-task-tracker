@@ -1,0 +1,10 @@
+.layout__without-nav {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+    .page__main {
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+}
